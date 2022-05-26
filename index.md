@@ -8,3 +8,5 @@ A list of things that I might blog about includes:
  * Statistics 4 Data Science
  * Myself
 
+Here is a nice image I found of Ike from Fire Emblem for your viewing pleasure:
+![We Like Ike](ike.png)
