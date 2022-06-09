@@ -1,0 +1,16 @@
+---
+title: "Programming Background"
+author: "Tommy King"
+date: "`r Sys.Date()`"
+---
+
+## What R my Thoughts on R?  
+  
+I would say R is quite unique as far as programming languages go. It feels R's syntaxes are pretty different from other languages, things like the `<-` operator I think would be considered pretty zany versus other types. I like that it's a scripting language which makes it much easier to play around with as opposed to something you have to run from a file. RStudio also seems like a really easy to use IDE compared to some I've had to use for other languages which is great. You can tell R is open source because there are so many packages out there and some of them feel like almost entirely different languages from each other, but that's also sort of a nice quality because it has a lot of specilaized functions and uses.  
+  
+## R Markdown Output  
+  
+```{r rmdoutput, eval=TRUE, echo=TRUE }
+plot(iris)
+```
+
