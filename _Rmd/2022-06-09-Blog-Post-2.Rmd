@@ -7,15 +7,6 @@ date: "`r Sys.Date()`"
 knitr::opts_chunk$set(fig.path = "../images/")
 ```
   
-```{r Create, include=FALSE}
-rmarkdown::render("2022-06-09-Blog-Post-2.Rmd", 
-          output_format = "github_document",
-          output_dir = "twking0101.github.io/_posts",
-          output_options = list(
-            html_preview = FALSE
-          )
-          )
-```
 
 ## What R my Thoughts on R?  
   
