@@ -3,8 +3,8 @@ title: "Programming Background"
 author: "Tommy King"
 date: "`r Sys.Date()`"
 ---
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(fig.path = "../images/")
+```{r setupagain, include=FALSE}
+knitr::opts_chunk$set(fig.path = "../Images/")
 ```
   
 
