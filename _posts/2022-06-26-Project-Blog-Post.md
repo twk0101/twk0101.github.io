@@ -1,6 +1,7 @@
 # Project Blog Post
-Link to github pages repo - https://twk0101.github.io/Project-1/
-Link to regular repo - https://github.com/twk0101/Project-1
+[Link to github pages repo](https://twk0101.github.io/Project-1/)  
+
+[Link to regular repo](https://github.com/twk0101/Project-1)
 
 I really enjoyed this project as it gave us a lot of creative freedom to explore the world of APIs for ourselves and sort of play around with whatever we could come up with. I'm glad I picked the PokeAPI to work with, as it brought back a ton of fun memories of the games from my earlier years and I was surprised about how much of the knowledge I still had locked away in my brain somewhere.
 
